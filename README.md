@@ -60,10 +60,11 @@ touch .env
 # Then, edit .env and add your API keys
 ```
 ## 🔐 .env File
+```
 OPENAI_API_KEY=your_openai_key
 ASSEMBLYAI_API_KEY=your_assemblyai_key
-
-▶️ How It Works
+```
+## ▶️ How It Works
 Upload a YouTube link or audio file.
 
 Audio is transcribed using AssemblyAI.
